@@ -2,7 +2,7 @@ Team 21 Repository
 
 ### The Challenge:
 
-# The Challenge-givers
+## The Challenge-givers
 
 ![dsv](https://user-images.githubusercontent.com/44057363/102025470-62fcf380-3d98-11eb-9709-dce8d885ce04.png)
 
