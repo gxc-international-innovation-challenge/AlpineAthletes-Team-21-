@@ -5,6 +5,7 @@ Team 21 Repository
 ![HM_Deu_CMYK_2 (1)](https://user-images.githubusercontent.com/44057363/102026414-f97fe380-3d9d-11eb-8550-7f5ef9251125.jpg) ![HM_GXC_Flyer_477x294 (1)](https://user-images.githubusercontent.com/44057363/102026796-3c42bb00-3da0-11eb-9c75-fcdad1c2681a.jpg)
 
 ## The Team:
+https://user-images.githubusercontent.com/72896011/102027072-c8c88b80-3d56-11eb-8061-376252f3153b.png
 
 ## The Challenge:
 
