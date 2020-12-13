@@ -1,6 +1,8 @@
 Team 21 Repository
 
-# The Team:
+## Introduction:
+
+## The Team:
 
 ## The Challenge:
 
@@ -11,7 +13,7 @@ Team 21 Repository
 The challenge-giver in our case was the german-ski-federation and Mr. Klaus Rambach, the federation's head of strategic developement.
 Our endeavours throughout the duration of this course where dedicated to create a soultion specifically for them based on their needs, feedback and most importantly the challenge-statement they were proposing.
 
-### The Challenge-statement:
+### Challenge-statement:
 
 How could we digitally connect/engage ski enthusiasts in a way that adds value to all stakeholders and leads to an active/interconnected ski community?
 
