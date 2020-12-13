@@ -3,8 +3,7 @@ Team 21 Repository
 ### The Challenge:
 
 Tha challenge-giver in this case is Mr. Klaus Rambach and the german-ski-federation.
-![dsv](https://user-images.githubusercontent.com/44057363/102025237-eae1fe00-3d96-11eb-9dcc-c3beb4454070.png)
-
+![dsv](https://user-images.githubusercontent.com/44057363/102025380-de11da00-3d97-11eb-8c63-53eb7d0fe4ef.jpg)
 
 
 ### The Team:
