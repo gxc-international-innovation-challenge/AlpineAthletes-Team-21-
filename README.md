@@ -2,6 +2,9 @@ Team 21 Repository
 
 ## Introduction:
 
+![HM_Deu_CMYK_2](https://user-images.githubusercontent.com/44057363/102026386-d1908000-3d9d-11eb-8a4d-2b1c516e272d.jpg)
+
+
 ## The Team:
 
 ## The Challenge:
