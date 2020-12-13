@@ -2,8 +2,7 @@ Team 21 Repository
 
 ## Introduction:
 
-![HM_Deu_CMYK_2 (1)](https://user-images.githubusercontent.com/44057363/102026414-f97fe380-3d9d-11eb-8550-7f5ef9251125.jpg) ![HM_GXC_Flyer_477x294](https://user-images.githubusercontent.com/44057363/102026736-e110c880-3d9f-11eb-9f19-bb1ea9121cbe.jpg)
-
+![HM_Deu_CMYK_2 (1)](https://user-images.githubusercontent.com/44057363/102026414-f97fe380-3d9d-11eb-8550-7f5ef9251125.jpg) ![HM_GXC_Flyer_477x294 (1)](https://user-images.githubusercontent.com/44057363/102026796-3c42bb00-3da0-11eb-9c75-fcdad1c2681a.jpg)
 
 ## The Team:
 
