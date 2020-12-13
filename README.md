@@ -1,6 +1,6 @@
 Team 21 Repository
 
-###The Team:
+#The Team:
 
 ## The Challenge:
 
