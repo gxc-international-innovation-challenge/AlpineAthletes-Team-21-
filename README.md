@@ -31,4 +31,6 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 ![iPhone SE - 92 (1)](https://user-images.githubusercontent.com/44057363/102024985-604ccf00-3d95-11eb-95c0-7ddcf0539939.jpg)
 
+https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
+
 
