@@ -7,6 +7,8 @@ Team 21 Repository
 ## The Team:
 https://user-images.githubusercontent.com/72896011/102027072-c8c88b80-3d56-11eb-8061-376252f3153b.png
 
+<img width="989" alt="Screen Shot 2020-12-07 at 8 48 50 AM" src="https://user-images.githubusercontent.com/72896011/102027072-c8c88b80-3d56-11eb-8061-376252f3153b.png">
+
 ## The Challenge:
 
 ### The Challenge-givers
