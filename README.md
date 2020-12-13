@@ -9,7 +9,7 @@ Team 21 Repository
 ![dsv](https://user-images.githubusercontent.com/44057363/102025470-62fcf380-3d98-11eb-9709-dce8d885ce04.png)
 
 The challenge-giver in our case was the german-ski-federation and Mr. Klaus Rambach, the federation's head of strategic developement.
-Our endeavours throughout the duration of this course where dedicated to create a soultion specifically for them based on their needs, feedback and most importantly their challenge-statement they were proposing.
+Our endeavours throughout the duration of this course where dedicated to create a soultion specifically for them based on their needs, feedback and most importantly the challenge-statement they were proposing.
 
 ### The Challenge-statement:
 
