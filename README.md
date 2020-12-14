@@ -48,6 +48,8 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 ### Inspiration:
 
+We were inspired by the American Football Fantasy League to create a winter sports fantasy league for the German Ski Federation.
+
 ![impact slide](https://user-images.githubusercontent.com/72896011/102115097-ea298600-3def-11eb-8294-9ab496105e69.jpg)
 
 ### Prototype:
@@ -67,6 +69,8 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 ![discount shop](https://user-images.githubusercontent.com/44057363/102102511-2f6ba900-3e2c-11eb-9fdc-4910bdc5158c.png)
 
 #### Result-Feature:
+
+The results feature allows you to look at the results from all of the different winter sports events and the results are powered by FIS.
 
 ![results](https://user-images.githubusercontent.com/44057363/102112475-09e49c80-3e38-11eb-8f83-90ae63eb1352.png)
 
