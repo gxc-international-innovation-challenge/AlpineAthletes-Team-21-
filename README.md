@@ -1,6 +1,6 @@
 Team 21 Repository
 
-## Introduction:
+# Introduction:
 
 ![HM_Deu_CMYK_2 (1)](https://user-images.githubusercontent.com/44057363/102026414-f97fe380-3d9d-11eb-8550-7f5ef9251125.jpg) ![HM_GXC_Flyer_477x294 (1)](https://user-images.githubusercontent.com/44057363/102026796-3c42bb00-3da0-11eb-9c75-fcdad1c2681a.jpg)
 
@@ -49,5 +49,14 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 ### Features:
+
+Virtual League:
+
+Discount-Shop:
+
+Result-Feature:
+
+Events-Feature:
+
 
 
