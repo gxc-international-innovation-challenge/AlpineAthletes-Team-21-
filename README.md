@@ -48,6 +48,6 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
-##Main Features:
+### Features:
 
 
