@@ -23,7 +23,7 @@ Senior at California Polytechnic State University, San Luis Obispo. California, 
 #### Tolga Kayapinar:
 from Munich, Germany
 
-5th semester bachelor student in business informatics at the Universty of Applied Sciences in Munich
+5th semester bachelor student in business informatics at the University of Applied Sciences in Munich
 
 ## The Challenge:
 
