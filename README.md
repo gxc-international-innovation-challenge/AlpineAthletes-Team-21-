@@ -50,13 +50,13 @@ https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 ### Features:
 
-Virtual League:
+#### Virtual League:
 
-Discount-Shop:
+#### Discount-Shop:
 
-Result-Feature:
+#### Result-Feature:
 
-Events-Feature:
+#### Events-Feature:
 
 
 
