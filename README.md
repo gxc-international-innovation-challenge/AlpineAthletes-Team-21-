@@ -45,6 +45,8 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 ### Inspiration:
 
+![impact slide](https://user-images.githubusercontent.com/72896011/102115097-ea298600-3def-11eb-8294-9ab496105e69.jpg)
+
 ### Prototype:
 
 ![iPhone SE - 92 (1)](https://user-images.githubusercontent.com/44057363/102024985-604ccf00-3d95-11eb-95c0-7ddcf0539939.jpg)
