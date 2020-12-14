@@ -14,11 +14,13 @@ This environment helps students acquiring an entrepreneurial mindset while also 
 
 <img width="989" alt="Screen Shot 2020-12-07 at 8 48 50 AM" src="https://user-images.githubusercontent.com/72896011/102027072-c8c88b80-3d56-11eb-8061-376252f3153b.png">
 
-#### Emma Blair: Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Double major in Agricultural Communication and Spanish.
+#### Emma Blair: 
+Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Double major in Agricultural Communication and Spanish.
 
-Kailey Wachhorst: Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Major in Communication and minor in Industrial Technology.
+#### Kailey Wachhorst: 
+Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Major in Communication and minor in Industrial Technology.
 
-Tolga Kayapinar:
+#### Tolga Kayapinar:
 from Munich, Germany
 5th semester bachelor student in business informatics at the Universty of Applied Sciences in Munich
 
