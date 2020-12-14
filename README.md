@@ -56,7 +56,7 @@ https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 #### Discount-Shop:
 
-
+![discount shop](https://user-images.githubusercontent.com/44057363/102102511-2f6ba900-3e2c-11eb-9fdc-4910bdc5158c.png)
 
 #### Result-Feature:
 
