@@ -26,7 +26,7 @@ from Munich, Germany
 5th semester bachelor student in business informatics at the University of Applied Sciences in Munich
 
 #### Iida Matilainen:
-Tampere, Finland. Second year biomedical laboratory scientist student at Tampere University of Applied Sciences.
+Tampere, Finland. Second year Biomedical Laboratory Scientist student at Tampere University of Applied Sciences.
 
 #### Christian Pauer:
 Vienna, Austria. 5th semester bachelor student in High Tech Manufacturing at the Univerity of Applied Sciences Campus Wien.
