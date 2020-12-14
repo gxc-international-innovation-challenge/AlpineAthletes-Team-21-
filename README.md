@@ -18,6 +18,10 @@ Emma Blair: Senior at California Polytechnic State University, San Luis Obispo. 
 
 Kailey Wachhorst: Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Major in Communication and minor in Industrial Technology.
 
+Tolga Kayapinar:
+from Munich, Germany
+5th semester bachelor student in business informatics at the Universty of Applied Sciences in Munich
+
 ## The Challenge:
 
 ### The Challenge-givers
