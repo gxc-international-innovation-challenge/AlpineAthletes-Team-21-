@@ -54,6 +54,8 @@ https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 #### Discount-Shop:
 
+![iPhone SE - 60 (2)](https://user-images.githubusercontent.com/44057363/102099068-2f69aa00-3e28-11eb-826a-0dff7eb1b250.png)
+
 #### Result-Feature:
 
 #### Events-Feature:
