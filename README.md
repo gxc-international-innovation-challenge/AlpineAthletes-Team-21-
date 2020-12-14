@@ -19,7 +19,7 @@ Senior at California Polytechnic State University, San Luis Obispo. California, 
 Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Major in Communication and minor in Industrial Technology.
 
 #### Tolga Kayapinar:
-Munich, Germany. 5th semester bachelor student in business informatics at the University of Applied Sciences in Munich
+Munich, Germany. 5th semester bachelor student in business informatics at the University of Applied Sciences in Munich.
 
 #### Iida Matilainen:
 Tampere, Finland. Second year Biomedical Laboratory Scientist student at Tampere University of Applied Sciences.
@@ -61,6 +61,8 @@ Our solution takes form in an app called "AlpineAthletes". It's main feature is 
 ![virtual league](https://user-images.githubusercontent.com/44057363/102100867-385b7b00-3e2a-11eb-8678-30040f1d1b77.jpg)
 
 ### Discount-Shop:
+
+With the points earnied in the virtual league, users can aquire different discounts for gear, lifttickets or eventickets. While each discount costs a certain amount of points, the more valuabla a discount is, the more points will be needed. Once a user decides to his points for a discount, the app will finish the "transaction" by generating a unique discount code, which can be used in the online-shop of the specific brand or resort.
 
 ![discount shop](https://user-images.githubusercontent.com/44057363/102102511-2f6ba900-3e2c-11eb-9fdc-4910bdc5158c.png)
 
