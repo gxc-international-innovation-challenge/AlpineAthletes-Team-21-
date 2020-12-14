@@ -58,28 +58,31 @@ Our solution takes form in an app called "AlpineAthletes". It's main feature is 
 ![iPhone SE - 92 (1)](https://user-images.githubusercontent.com/44057363/102024985-604ccf00-3d95-11eb-95c0-7ddcf0539939.jpg)
 
 
-
-### Features:
-
-#### Virtual League:
+### Virtual League:
 
 ![virtual league](https://user-images.githubusercontent.com/44057363/102100867-385b7b00-3e2a-11eb-8678-30040f1d1b77.jpg)
 
-#### Discount-Shop:
+### Discount-Shop:
 
 ![discount shop](https://user-images.githubusercontent.com/44057363/102102511-2f6ba900-3e2c-11eb-9fdc-4910bdc5158c.png)
 
-#### Result-Feature:
+### Result-Feature:
 
 The results feature allows you to look at the results from all of the different winter sports events and the results are powered by FIS.
 
 ![results](https://user-images.githubusercontent.com/44057363/102112475-09e49c80-3e38-11eb-8f83-90ae63eb1352.png)
 
-#### Events-Feature:
+### Events-Feature:
 
 ![events](https://user-images.githubusercontent.com/44057363/102101697-3f36bd80-3e2b-11eb-9a98-5484674704d9.png)
 
+# Related Links:
+
+### Wiki-page:
+
 https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
+
+### GitHub-page:
 
 https://gxc-international-innovation-challenge.github.io/AlpineAthletes-Team-21-/
 
