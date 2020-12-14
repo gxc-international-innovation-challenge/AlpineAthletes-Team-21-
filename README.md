@@ -58,6 +58,8 @@ Our solution takes form in an app called "AlpineAthletes". It's main feature is 
 
 ### Virtual League:
 
+Inspired by the American Fantasy Football league, a 7 billion industry with 59 million participants, AlpineAthletes app users have the opportunity to make their dream team of athletes from 6 winter sports through the fantasy winter sports league game feature. Once the winter sports season has begun, the game officially begins. The higher the athlete on their team places in real life events, the more points the user gets. At the end of the winter sports season, the user that earns the most points within their league, can use them in the Discount Shop. 
+
 ![virtual league](https://user-images.githubusercontent.com/44057363/102100867-385b7b00-3e2a-11eb-8678-30040f1d1b77.jpg)
 
 ### Discount-Shop:
