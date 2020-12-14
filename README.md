@@ -21,9 +21,7 @@ Senior at California Polytechnic State University, San Luis Obispo. California, 
 Senior at California Polytechnic State University, San Luis Obispo. California, USA.  Major in Communication and minor in Industrial Technology.
 
 #### Tolga Kayapinar:
-from Munich, Germany
-
-5th semester bachelor student in business informatics at the University of Applied Sciences in Munich
+Munich, Germany. 5th semester bachelor student in business informatics at the University of Applied Sciences in Munich
 
 #### Iida Matilainen:
 Tampere, Finland. Second year Biomedical Laboratory Scientist student at Tampere University of Applied Sciences.
@@ -48,11 +46,14 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 ### Inspiration:
 
-We were inspired by the American Football Fantasy League to create a winter sports fantasy league for the German Ski Federation.
+We were inspired by the american football fantasy League, a popular game among football fans with about 59 Millionen users across the USA and Canada.
+So we created a "winter sports fantasy league" for the German Ski Federation and the german ski-community.
 
 ![impact slide](https://user-images.githubusercontent.com/72896011/102115097-ea298600-3def-11eb-8294-9ab496105e69.jpg)
 
 ### Prototype:
+
+Our solution takes form in an app called "AlpineAthletes". It's main feature is the virtual league where users can, similary to fantasy football, draft athletes and create their own leagues while competing with their friends or other users. While playing the league, users can earn points depending on their placements and use them to aquire special discounts. Furthermore the app includes a results- and event-feature with which users can get information on tournaments results and upcoming events in a quick and easy way.
 
 ![iPhone SE - 92 (1)](https://user-images.githubusercontent.com/44057363/102024985-604ccf00-3d95-11eb-95c0-7ddcf0539939.jpg)
 
