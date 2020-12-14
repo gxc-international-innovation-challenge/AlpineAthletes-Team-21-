@@ -60,6 +60,8 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 #### Result-Feature:
 
+![results](https://user-images.githubusercontent.com/44057363/102112475-09e49c80-3e38-11eb-8f83-90ae63eb1352.png)
+
 #### Events-Feature:
 
 ![events](https://user-images.githubusercontent.com/44057363/102101697-3f36bd80-3e2b-11eb-9a98-5484674704d9.png)
