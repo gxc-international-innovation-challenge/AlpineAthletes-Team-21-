@@ -62,6 +62,8 @@ https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 #### Events-Feature:
 
+![events](https://user-images.githubusercontent.com/44057363/102101697-3f36bd80-3e2b-11eb-9a98-5484674704d9.png)
+
 https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 
