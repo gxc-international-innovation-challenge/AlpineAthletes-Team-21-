@@ -52,7 +52,7 @@ https://github.com/gxc-international-innovation-challenge/gxc-team-21/wiki
 
 #### Virtual League:
 
-
+![virtual league](https://user-images.githubusercontent.com/44057363/102100867-385b7b00-3e2a-11eb-8678-30040f1d1b77.jpg)
 
 #### Discount-Shop:
 
