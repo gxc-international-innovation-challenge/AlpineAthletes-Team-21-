@@ -28,6 +28,9 @@ from Munich, Germany
 #### Iida Matilainen:
 Tampere, Finland. Second year biomedical laboratory scientist student at Tampere University of Applied Sciences.
 
+#### Christian Pauer:
+Vienna, Austria. 5th semester bachelor student in High Tech Manufacturing at the Univerity of Applied Sciences Campus Wien.
+
 # The Challenge:
 
 ### The Challenge-givers
