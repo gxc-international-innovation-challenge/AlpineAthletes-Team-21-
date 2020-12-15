@@ -62,19 +62,19 @@ Inspired by the American Fantasy Football league, a 7 billion dollar industry wi
 
 ![virtual league](https://user-images.githubusercontent.com/44057363/102100867-385b7b00-3e2a-11eb-8678-30040f1d1b77.jpg)
 
-### Discount-Shop:
+### Discount Shop:
 
 With the points earnied in the virtual league, users can aquire different discounts for gear, lift tickets or event tickets. While each discount costs a certain amount of points, the more valuable a discount is, the more points will be needed. Once a user decides to use their points for a discount, the app will finish the "transaction" by generating a unique discount code, which can be used in the online-shop of the specific brand or resort.
 
 ![discount shop](https://user-images.githubusercontent.com/44057363/102102511-2f6ba900-3e2c-11eb-9fdc-4910bdc5158c.png)
 
-### Result-Feature:
+### Results Feature:
 
 The results feature allows you to look at the results from all of the different winter sports events and the results are powered by FIS.  The user can access results for Men's, Women's and Nation's events.
 
 ![results](https://user-images.githubusercontent.com/44057363/102112475-09e49c80-3e38-11eb-8f83-90ae63eb1352.png)
 
-### Events-Feature:
+### Events Feature:
 
 The events feature allows users to see all upcoming winter sports events surrounding the World Cup with the opportunity to purchase tickets for the event through the app.  The user can see all event details such as where, when, and what type of event it is.
 
