@@ -44,7 +44,7 @@ How could we digitally connect/engage ski enthusiasts in a way that adds value t
 
 ### Inspiration:
 
-We were inspired by the american football fantasy League, a popular game among football fans with about 59 Millionen users across the USA and Canada.
+We were inspired by the American football fantasy league, a popular game among football fans with about 59 million users across the USA and Canada.
 So we created a "winter sports fantasy league" for the German Ski Federation and the german ski-community.
 
 ![impact slide](https://user-images.githubusercontent.com/72896011/102115097-ea298600-3def-11eb-8294-9ab496105e69.jpg)
@@ -58,23 +58,25 @@ Our solution takes form in an app called "AlpineAthletes". It's main feature is 
 
 ### Virtual League:
 
-Inspired by the American Fantasy Football league, a 7 billion industry with 59 million participants, AlpineAthletes app users have the opportunity to make their dream team of athletes from 6 winter sports through the fantasy winter sports league game feature. Once the winter sports season has begun, the game officially begins. The higher the athlete on their team places in real life events, the more points the user gets. At the end of the winter sports season, the user that earns the most points within their league, can use them in the Discount Shop. 
+Inspired by the American Fantasy Football league, a 7 billion dollar industry with 59 million participants, AlpineAthletes app users have the opportunity to make their dream team of athletes from 6 winter sports through the fantasy winter sports league game feature. Once the winter sports season has begun, the game officially begins. The higher the athlete on their team places in real life events, the more points the user gets. At the end of the winter sports season, the user that earns the most points within their league, can use them in the Discount Shop. 
 
 ![virtual league](https://user-images.githubusercontent.com/44057363/102100867-385b7b00-3e2a-11eb-8678-30040f1d1b77.jpg)
 
 ### Discount-Shop:
 
-With the points earnied in the virtual league, users can aquire different discounts for gear, lifttickets or eventickets. While each discount costs a certain amount of points, the more valuabla a discount is, the more points will be needed. Once a user decides to his points for a discount, the app will finish the "transaction" by generating a unique discount code, which can be used in the online-shop of the specific brand or resort.
+With the points earnied in the virtual league, users can aquire different discounts for gear, lift tickets or event tickets. While each discount costs a certain amount of points, the more valuable a discount is, the more points will be needed. Once a user decides to use their points for a discount, the app will finish the "transaction" by generating a unique discount code, which can be used in the online-shop of the specific brand or resort.
 
 ![discount shop](https://user-images.githubusercontent.com/44057363/102102511-2f6ba900-3e2c-11eb-9fdc-4910bdc5158c.png)
 
 ### Result-Feature:
 
-The results feature allows you to look at the results from all of the different winter sports events and the results are powered by FIS.
+The results feature allows you to look at the results from all of the different winter sports events and the results are powered by FIS.  The user can access results for Men's, Women's and Nation's events.
 
 ![results](https://user-images.githubusercontent.com/44057363/102112475-09e49c80-3e38-11eb-8f83-90ae63eb1352.png)
 
 ### Events-Feature:
+
+The events feature allows users to see all upcoming winter sports events surrounding the World Cup with the opportunity to purchase tickets for the event through the app.  The user can see all event details such as where, when, and what type of event it is.
 
 ![events](https://user-images.githubusercontent.com/44057363/102101697-3f36bd80-3e2b-11eb-9a98-5484674704d9.png)
 
